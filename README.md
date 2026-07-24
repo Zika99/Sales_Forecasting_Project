@@ -159,52 +159,17 @@ The final output was presented using a professional multiline f-string report.
 
 # 📊 Sample Output
 
-```
-=================================================
-        BRIGHTMART SALES FORECAST REPORT
-=================================================
-
-Product Name           : Wireless Mouse
-
-Selling Price          : ₦12,500.00
-
-Units Sold This Week   : 180
-
-Weekly Revenue         : ₦2,250,000.00
-
-Forecast Growth Rate   : 15%
-
-Forecast Sales         : 207 Units
-
-Forecast Revenue       : ₦2,587,500.00
-
-Current Stock          : 70 Units
-
-Sales Target Achieved  : False
-
-Restocking Required    : True
-
-Product Available      : True
-
-Promotion Eligible     : False
-
-High Demand Forecast   : True
-
-=================================================
-```
-
----
-
-## Sample Output
-
 <p align="center">
 <img width="1241" height="703" alt="BrightMart1" src="https://github.com/user-attachments/assets/765e2511-a5a1-44f7-820f-762e5243f031" />
-<img width="1276" height="658" alt="BrightMart2" src="https://github.com/user-attachments/assets/35c35455-c388-4dec-a003-b4dc9bef658c" />
-<img width="790" height="652" alt="BrightMart3" src="https://github.com/user-attachments/assets/8f14ed71-6202-431e-a805-ccfaed84f6d4" />
-<img width="735" height="659" alt="BrightMart4" src="https://github.com/user-attachments/assets/d163ac4e-af92-4081-97f8-57693ec47207" />
-<img width="658" height="649" alt="BrightMart5" src="https://github.com/user-attachments/assets/aec98a4a-5b45-41d5-a59f-aa13c9dd9bf3" />
+<img width="1189" height="514" alt="BrightMart2" src="https://github.com/user-attachments/assets/14c9f7ff-7e31-4fd9-b869-04e7fefc721f" />
+<img width="1187" height="451" alt="BrightMart3" src="https://github.com/user-attachments/assets/7985bf7f-8528-4c63-a4b4-f4acc70b1102" />
+<img width="1179" height="607" alt="BrightMart4" src="https://github.com/user-attachments/assets/4e2238cd-8b45-4569-942e-05fb2c278e4d" />
+<img width="530" height="555" alt="BrightMart5" src="https://github.com/user-attachments/assets/0cef4ea4-ae7a-498c-b990-e5e1775f2ec3" />
+<img width="572" height="543" alt="BrightMart6" src="https://github.com/user-attachments/assets/1e0e9045-1345-42f3-ae1e-e56af9afe0b8" />
+
         
 </p>
+
 
 
 # 📈 Key Findings
