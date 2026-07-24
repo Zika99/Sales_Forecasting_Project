@@ -195,6 +195,18 @@ High Demand Forecast   : True
 
 ---
 
+## Sample Output
+
+<p align="center">
+<img width="1241" height="703" alt="BrightMart1" src="https://github.com/user-attachments/assets/765e2511-a5a1-44f7-820f-762e5243f031" />
+<img width="1276" height="658" alt="BrightMart2" src="https://github.com/user-attachments/assets/35c35455-c388-4dec-a003-b4dc9bef658c" />
+<img width="790" height="652" alt="BrightMart3" src="https://github.com/user-attachments/assets/8f14ed71-6202-431e-a805-ccfaed84f6d4" />
+<img width="735" height="659" alt="BrightMart4" src="https://github.com/user-attachments/assets/d163ac4e-af92-4081-97f8-57693ec47207" />
+<img width="658" height="649" alt="BrightMart5" src="https://github.com/user-attachments/assets/aec98a4a-5b45-41d5-a59f-aa13c9dd9bf3" />
+        
+</p>
+
+
 # 📈 Key Findings
 
 From the analysis, the following insights were obtained:
